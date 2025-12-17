@@ -1,0 +1,7 @@
+{
+  "name": "Suvarna Prompt - Telugu/Hindi/English to Golden AI",
+  "description": "Transforms Telugu, Hindi, and English chat text into high-quality, professional 'Golden Prompts' using advanced Gemini thinking models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
